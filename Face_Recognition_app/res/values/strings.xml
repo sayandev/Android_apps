@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prelim_template</string>
+    <string name="dummy_content">HUMAN RECOGNITION\nUSING BIOMETRICS</string>
+    <string name="dummy_button">Take Picture</string>
+    <string name="about_button">About</string>
+    <string name="about_content">About the App</string>
+    <string name="about_text">Biometrics (or biometric authentication) refers to the identification of humans by their characteristics or traits. Biometrics is used in computer science as a form of identification and access control. It is also used to identify individuals in groups that are under surveillance.  Behavioral biometrics are related to the behavior of a person, including but not limited to: typing rhythm, gait, and voice.</string>
+    <string name="exit_button">Exit</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+    <string name="detect_face">Detect Face</string>
+    
+</resources>
